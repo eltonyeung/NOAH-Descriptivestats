@@ -4,3 +4,6 @@ Display descriptive stats in box plots, with individual participant's data point
 gender color coded (Male = Blue, Female = Red)
 
 Additional Histogram showing distribution in age groups 
+
+
+![Descriptive Stats](/Demographics(Color).png)
